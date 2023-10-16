@@ -142,38 +142,7 @@ If operation is '/', divide num1 by num2 and store the result in result.
 
 8.End
 
-- **Print 50 Numbers using While Loop Algorithm**:
 
-1.Start
-
-2.Declare an integer variable (e.g., num) and initialize it to 1 (the starting number).
-
-3.Create a while loop that continues while num is less than or equal to 50:
-
-4.Inside the loop:
-
-5.Print the current value of num.
-
-6.Increment num by 1.
-
-7.End
-
-
-- **Print "Hello, World!" 10 Times using For Loop Algorithm**:
-
-1.Start
-
-2.Create a for loop that iterates from 1 to 10 (inclusive):
-
-3.Initialize a loop variable (e.g., i) to 1.
-
-4.Continue the loop as long as i is less than or equal to 10.
-
-5.In each iteration of the loop:
-
-6.Print "Hello, World!" to the output.
-
-7.End
 
 - **Print Number Triangle using For Loop Algorithm**:
 
@@ -219,15 +188,6 @@ If operation is '/', divide num1 by num2 and store the result in result.
 ![image](https://github.com/Vrn24/Loops/assets/112547439/6539d4d2-88bd-48e0-b188-2e30811e4e37)
 
 
-- **Print 50 Numbers using While Loop Algorithm**:
-  
-![image](https://github.com/Vrn24/Loops/assets/112547439/174c00d5-392c-496b-8a8d-e8a3973f252b)
-![image](https://github.com/Vrn24/Loops/assets/112547439/87510837-49ae-425b-a338-02afffe5e088)
-
-
-- **Print "Hello, World!" 10 Times using For Loop Algorithm**:
-
-![image](https://github.com/Vrn24/Loops/assets/112547439/7eb32869-6860-4238-a7ce-231bc394bd53)
 
   - **Print Number Triangle using For Loop Algorithm**:
 
